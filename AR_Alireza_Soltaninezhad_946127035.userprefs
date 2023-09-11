@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{1067BBA6-5A8D-6402-D6BD-2E00C7D72EDC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/change_scean.cs">
+    <Files>
+      <File FileName="Assets/URL.cs" Line="27" Column="6" />
+      <File FileName="Assets/Scenes/change_scean.cs" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.AR__Alireza__Soltaninezhad__946127035 PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

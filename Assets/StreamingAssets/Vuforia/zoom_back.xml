@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Hinge_R" size="7.000000 6.541346" />
+    <ImageTarget name="port_big" size="6.000000 8.290959" />
+    <ImageTarget name="information" size="7.000000 5.543124" />
+    <ImageTarget name="Hinge_L" size="5.000000 5.000000" />
+  </Tracking>
+</QCARConfig>
