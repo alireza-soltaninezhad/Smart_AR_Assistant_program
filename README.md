@@ -8,7 +8,7 @@
 
 ## 🌟 Overview
 
-Developed by Alireza Soltani Nezhad in Spring 2019, this application aims to revolutionize the training process for new employees in industrial settings. Utilizing Unity and Vuforia SDK, the app provides real-time object recognition and audio-visual guides to ensure safe and effective machine operation. The app is primarily in Persian and serves as a versatile pilot project.
+Developed by Alireza Soltani Nezhad in Spring 2018, this application aims to revolutionize the training process for new employees in industrial settings. Utilizing Unity and Vuforia SDK, the app provides real-time object recognition and audio-visual guides to ensure safe and effective machine operation. The app is primarily in Persian and serves as a versatile pilot project.
 
 ## 🎯 Features
 
